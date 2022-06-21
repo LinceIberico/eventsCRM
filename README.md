@@ -16,5 +16,5 @@ Proyecto Laravel en su versión 9, que incluye;
 - Spatie Medialibrary
 
 
-Pueden consultarme en el email asmillanwebdeveloper@gmail.com para cualquier cosa.
+Pueden consultarme en el email asmillanwebdeveloper@gmail.com para cualquier duda.
 
